@@ -31,9 +31,9 @@ The dataset contains movie details: `index`, `movie_name`, `genre`, and `plot`.
 ##  Visualization
 
 - Bar plot showing number of predicted genres
-- Confusion matrix to understand correct vs incorrect classifications
+  
 ## Results
 
 - **Accuracy**: ~50.8%
 - Best performance on frequent genres like `drama` and `documentary`
-- Lower scores for underrepresented genres (due to class imbalance)
+
